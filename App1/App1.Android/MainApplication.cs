@@ -1,8 +1,6 @@
 ﻿using System;
-
 using Android.App;
 using Android.Runtime;
-
 using Shiny;
 
 namespace App1.Droid

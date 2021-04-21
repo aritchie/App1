@@ -1,7 +1,5 @@
 ﻿using System;
-
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace App1
 {
@@ -10,20 +8,7 @@ namespace App1
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
-        }
-
-        protected override void OnStart()
-        {
-        }
-
-        protected override void OnSleep()
-        {
-        }
-
-        protected override void OnResume()
-        {
+            //MainPage = new MainPage();
         }
     }
 }
